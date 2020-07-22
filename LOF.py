@@ -2,7 +2,7 @@
 # date： 2020/7/22 11:11  
 # IDE：PyCharm 
 # des: The implementation of LOF
-# des: a naive implementation, do not concern the computational efficient
+# des: a naive implementation, do not consider the computational efficient
 # input(s)：
 # output(s)：
 
